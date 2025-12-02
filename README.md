@@ -1,16 +1,39 @@
-# React + Vite
+# 📘 Ejercicios en React – 9 Prácticas Básicas
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este repositorio contiene una colección de **9 ejercicios desarrollados en React**, creados para practicar conceptos fundamentales como componentes, estados, eventos, hooks, renderizado dinámico y enrutamiento.
 
-Currently, two official plugins are available:
+Cada ejercicio está organizado en su propia carpeta dentro de `src/components`, y se puede acceder a ellos desde la navegación incluida en la aplicación.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🚀 Tecnologías utilizadas
+- React 18+
+- Vite
+- React Router
+- JavaScript (ES6+)
+- CSS básico
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 📂 Listado de Ejercicios
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### **1️⃣ Ejercicio 1 – Cambiar color de fondo**
+
+### **2️⃣ Ejercicio 2 – Contador de clicks**
+
+### **3️⃣ Ejercicio 3 – Lista Dinámica**p
+
+### **4️⃣ Ejercicio 4 – Filtro en Tiempo Real**
+
+### **5️⃣ Ejercicio 5 – Calculadora sencilla**
+
+### **6️⃣ Ejercicio 6 – Temporizador**
+
+### **7️⃣ Ejercicio 7 – Generador de contraseñas aleatorias**
+
+### **8️⃣ Ejercicio 8 – Contador de palabras y caracteres**
+
+### **9️⃣ Ejercicio 9 – Lista dinamica con LocalStorage**
+
+---
+
